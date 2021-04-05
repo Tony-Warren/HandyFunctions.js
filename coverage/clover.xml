@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1617591940488" clover="3.2.0">
+  <project timestamp="1617591940488" name="All files">
+    <metrics statements="36" coveredstatements="34" conditionals="33" coveredconditionals="21" methods="1" coveredmethods="1" elements="70" coveredelements="56" complexity="0" loc="36" ncloc="36" packages="1" files="2" classes="2"/>
+    <file name="DateDifference.mjs" path="/home/tony/WebProgramming/MyProjects/HandyFunctions2.js/src/DateDifference.mjs">
+      <metrics statements="35" coveredstatements="33" conditionals="33" coveredconditionals="21" methods="1" coveredmethods="1"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="23" count="5" type="stmt"/>
+      <line num="27" count="5" type="cond" truecount="1" falsecount="1"/>
+      <line num="28" count="5" type="stmt"/>
+      <line num="30" count="5" type="cond" truecount="1" falsecount="1"/>
+      <line num="31" count="0" type="stmt"/>
+      <line num="35" count="5" type="cond" truecount="1" falsecount="1"/>
+      <line num="36" count="5" type="stmt"/>
+      <line num="38" count="5" type="cond" truecount="1" falsecount="1"/>
+      <line num="39" count="0" type="stmt"/>
+      <line num="48" count="5" type="stmt"/>
+      <line num="49" count="5" type="stmt"/>
+      <line num="50" count="5" type="stmt"/>
+      <line num="51" count="5" type="stmt"/>
+      <line num="52" count="5" type="stmt"/>
+      <line num="53" count="5" type="stmt"/>
+      <line num="56" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="57" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="58" count="3" type="cond" truecount="1" falsecount="1"/>
+      <line num="62" count="1" type="stmt"/>
+      <line num="65" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="66" count="4" type="cond" truecount="1" falsecount="1"/>
+      <line num="67" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="69" count="3" type="stmt"/>
+      <line num="71" count="4" type="cond" truecount="1" falsecount="1"/>
+      <line num="75" count="1" type="stmt"/>
+      <line num="76" count="1" type="stmt"/>
+      <line num="77" count="1" type="stmt"/>
+      <line num="79" count="5" type="cond" truecount="1" falsecount="1"/>
+      <line num="80" count="5" type="cond" truecount="1" falsecount="1"/>
+      <line num="81" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="82" count="4" type="stmt"/>
+      <line num="84" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="87" count="5" type="stmt"/>
+      <line num="90" count="1" type="stmt"/>
+    </file>
+    <file name="languages.js" path="/home/tony/WebProgramming/MyProjects/HandyFunctions2.js/src/languages.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <line num="1" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
